@@ -1,0 +1,29 @@
+1-Contador del 1 al 10
+Escribe un programa que imprima los números del 1 al 10 utilizando un ciclo for.
+
+2-Números Pares del 1 al 50
+Muestra en pantalla los números pares del 1 al 50.
+
+3-Suma de los Primeros N Números
+Solicita un número N al usuario y calcula la suma de los primeros N números naturales.
+
+4-Tabla de Multiplicar
+Pide un número al usuario y muestra su tabla de multiplicar del 1 al 10.
+
+5-Cuenta Regresiva
+Imprime una cuenta regresiva desde 10 hasta 0.
+
+6-Suma de Números Pares
+Solicita un número N al usuario y calcula la suma de los números pares desde 1 hasta N.
+
+7-Factorial de un Número
+Pide un número al usuario y calcula su factorial.
+
+8-Promedio de N Números
+Solicita al usuario N números y calcula su promedio.
+
+9-Números Divisibles por 3 y 5
+Muestra todos los números del 1 al 100 que sean divisibles por 3 y por 5.
+
+10-Serie de Fibonacci
+Muestra los primeros N términos de la serie de Fibonacci.
